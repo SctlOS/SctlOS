@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🐧 SctlOS
 
-<!--
-**SctlOS/SctlOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SctlOS** es una distribución Linux basada en **Ubuntu 24.04 LTS (Noble Numbat)**, personalizada para ofrecer un entorno moderno, ligero y visualmente atractivo.
 
-Here are some ideas to get you started:
+## 🎯 Objetivos del proyecto
+- Personalización visual completa (fondos, temas, fuentes, terminal, bienvenida).
+- Estabilidad y compatibilidad con software Ubuntu.
+- Ideal para aprendizaje y desarrollo de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Estado actual
+Versión: **SctlOS 1.0.3 LTS**  
+Fecha de compilación: **2025-10-28**
+
+## 💾 Descargas
+Próximamente: [Releases](https://github.com/SctlOS/SctlOS/releases)
+
+## ⚙️ Construcción
+Basado en Ubuntu 24.04.3 LTS  
+Creado con **Cubic (Custom Ubuntu ISO Creator)**.
+
+---
+
+© 2025 Diego – Licencia [MIT](LICENSE)
