@@ -1,6 +1,6 @@
 # 🐧 SctlOS
 
-**SctlOS** es una distribución Linux basada en **Debian 13 (Trixie)**, diseñada para ofrecer un entorno moderno, ligero y visualmente cuidado.  
+**SctlOS** es una distribución Linux basada en **Ubuntu 24.04 LTS (Noble Numbat)**, diseñada para ofrecer un entorno moderno, ligero y visualmente cuidado.  
 Combina estabilidad con una estética única inspirada en el estilo pixel-tech, con una mascota propia y personalización completa del sistema.
 
 ## 🎯 Objetivos del proyecto
@@ -10,17 +10,17 @@ Combina estabilidad con una estética única inspirada en el estilo pixel-tech, 
 - Crear una base estable para futuras versiones de **SctlOS** más avanzadas.
 
 ## 🧩 Estado actual
-Versión: **SctlOS 1.0 (Trixie Edition)**  
+Versión: **SctlOS 1.0 (Noble Numbat)**  
 Fecha de compilación: **2025-10-29**  
-Entorno: **XFCE**
+Entorno: **GNOME**
 
 ## 💾 Descargas
 Próximamente disponibles en: [Releases](https://github.com/SctlOS/SctlOS/releases)
 
 ## ⚙️ Construcción
-Basado en **Debian 13.1 XFCE (Trixie)**  
+Basado en **Ubuntu 24.04 LTS (Noble Numbat)**  
 Creado con herramientas de personalización y snapshot:  
-**Refracta Snapshot** y **Refracta Installer**.
+**Cubic**.
 
 ---
 
