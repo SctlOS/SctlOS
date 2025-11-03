@@ -1,6 +1,6 @@
-# 🧠 SctlOS Retro
+# 🧠 SctlOS Tuxpunk
 
-**SctlOS Retro** es una distribución Linux basada en **Debian 12 (Bookworm)**, diseñada para ofrecer una experiencia **minimalista, retro y completamente manejable desde la terminal**.  
+**SctlOS Tuxpunk** es una distribución Linux basada en **Debian 12 (Bookworm)**, diseñada para ofrecer una experiencia **minimalista, retro y completamente manejable desde la terminal**.  
 Inspirada en la estética de los sistemas clásicos, combina rendimiento, estabilidad y una interfaz de consola moderna con toques vintage.
 
 ---
@@ -18,7 +18,7 @@ Inspirada en la estética de los sistemas clásicos, combina rendimiento, estabi
 
 | Campo | Detalle |
 |-------|----------|
-| **Versión** | SctlOS Retro 1.0 (Bookworm Base) |
+| **Versión** | SctlOS Tuxpunk 1.0 (Bookworm Base) |
 | **Fecha de compilación** | 2025-10-30 |
 | **Entorno** | Consola (Bash/Zsh) |
 | **Estado** | En desarrollo (Fase 1 – Entorno retro base) |
