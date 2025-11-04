@@ -7,7 +7,7 @@ Inspirada en la estética de los sistemas clásicos, combina rendimiento, estabi
 
 ## 🎯 Objetivos del proyecto
 
-- Crear un entorno **sin interfaz gráfica**, rápido y funcional, ideal para aprender Linux desde cero.  
+- Crear un entorno **con interfaz gráfica minimalista**, rápido y funcional, ideal para aprender Linux desde cero.  
 - Personalización total del entorno shell: mensajes, alias, colores, prompt y bienvenida ASCII.  
 - Ofrecer una base ligera y estable sobre **Debian**, lista para ampliarse en futuras versiones.  
 - Incluir herramientas clásicas y visuales de consola (como `neofetch`, `htop`, `figlet`, `cmatrix`, etc.).
@@ -29,7 +29,7 @@ Inspirada en la estética de los sistemas clásicos, combina rendimiento, estabi
 
 Basado en **Debian 12 “Bookworm” minimal**  
 Configurado y probado sobre **VirtualBox**  
-Creado y ajustado manualmente, sin entorno gráfico ni herramientas externas como Cubic.
+Creado y ajustado manualmente, sin entorno gráfico común ni herramientas externas como Cubic.
 
 ---
 
